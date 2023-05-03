@@ -1,3 +1,5 @@
+#To extract FASTQ.qz to FASTQ see  https://github.com/Aria-Dolatabadian/Python-tips/blob/main/Extract%20fastq.gz%20to%20fastq
+
 import os
 import math
 import numpy as np
